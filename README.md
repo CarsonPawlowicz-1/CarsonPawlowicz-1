@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Carson! <br/><a href="https://github.com/CarsonPawlowicz-1">Programmer</a>, <a href="https://www.linkedin.com/in/carson-pawlowicz-85238a449/">Computer Science Major Pursuing Cybersecurity</a></h1>
 
-<!--
-**CarsonPawlowicz-1/CarsonPawlowicz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects and Labs:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory Lab</b>
+  - [Active-Directory-Lab Repository](https://github.com/CarsonPawlowicz-1/Active-Directory-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Carson Pawlowicz | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Carson Pawlowicz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[github]: https://github.com/CarsonPawlowicz-1
+[linkedin]: https://www.linkedin.com/in/carson-pawlowicz-85238a449/
