@@ -4,6 +4,7 @@
 
 - <b>Active Directory Lab</b>
   - [Active-Directory-Lab Repository](https://github.com/CarsonPawlowicz-1/Active-Directory-Lab)
+- <b>Spiceworks-Ticketing-System-Lab</b>
   - [Spiceworks-Ticketing-System-Lab Repository](https://github.com/CarsonPawlowicz-1/Spiceworks-Ticketing-System-Lab-)
 
 <h2> 🤳 Connect with me:</h2>
